@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Pontus
 
 I'm a **Full Stack Developer** with a passion for **AI, cloud solutions, and modern web technologies**. I enjoy building scalable and user-friendly applications, with a strong focus on **React, TypeScript, Node.js, and .NET Core**.  
 
